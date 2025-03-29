@@ -48,9 +48,9 @@ They are used in word processors for making the tble of contents that provide th
 They help readers understand the purpose of each part of the document enabling them to research and learn efficiently.
 
 ## 10. What are some best practices for creating effective headings and subheadings?
-Use of short, point specific headings that are easy to understand
-Using clear normal language when writng them to avoid confusion or mis-interpretation
-Avoiding abnormal fonts and formats when writing the headings
+Use of short, point specific headings that are easy to understand.
+Using clear normal language when writng them to avoid confusion or mis-interpretation.
+Avoiding abnormal fonts and formats when writing the headings.
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 a)The project name and purpose
